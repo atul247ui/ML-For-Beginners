@@ -123,7 +123,7 @@ Applications of machine learning are now almost everywhere, and are as ubiquitou
 
 Finance, economics, earth science, space exploration, biomedical engineering, cognitive science, and even fields in the humanities have adapted machine learning to solve the arduous, data-processing heavy problems of their domain.
 
----
+-a--
 ## Conclusion
 
 Machine learning automates the process of pattern-discovery by finding meaningful insights from real-world or generated data. It has proven itself to be highly valuable in business, health, and financial applications, among others.
